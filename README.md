@@ -1,7 +1,7 @@
 
 # TODO List Manager
 
-A to-do list application enhances task management by facilitating efficient task writing, organization, and prioritization. It empowers users to manage, prioritize, and set deadlines for tasks, thereby boosting productivity. This repository encompasses all essential files for the MyProductivity App, a Django Application incorporating APIs to enable CRUD operations, along with basic HTML/CSS for the client-side (frontend) user interface. Additionally, the application features a User-Authentication system to store user-specific tasks. Refer to the comprehensive README.md documentation for a clearer understanding of the operational architecture and additional features.
+A to-do list application enhances task management by facilitating efficient task writing, organization, and prioritization. It empowers users to manage, prioritize, and set deadlines for tasks, thereby boosting productivity. This repository encompasses all essential files for the todo_drf App, a Django Application incorporating APIs to enable CRUD operations, along with basic HTML/CSS for the client-side (frontend) user interface. Additionally, the application features a User-Authentication system to store user-specific tasks. Refer to the comprehensive README.md documentation for a clearer understanding of the operational architecture and additional features.
 
 
 ## Demo Link
@@ -34,13 +34,13 @@ GitHub
 
 ## Working
 
-This is a To Do list application that allows user to manage his/her tasks more efficiently.
+1. This is a To Do list application that allows user to manage his/her tasks more efficiently.
 
-The App uses Django for back-end support and postgresql database to store the models data.
+2. The App uses Django for back-end support and postgresql database to store the models data.
 
-This To Do List application can store multiple users.
+3. This To Do List application can store multiple users.
 
-Its a complete application with an attractive user-interface which allows user to interact with the application in a better way.
+4. Its a complete application with an attractive user-interface which allows user to interact with the application in a better way.
 ## Features
 
 1. User can perform basic CRUD operations , i.e Create | Update | Delete the ToDo list.
